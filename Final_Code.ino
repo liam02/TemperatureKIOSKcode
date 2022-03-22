@@ -12,7 +12,6 @@
 // count up when IN sensor detects motion
 // count down when OUT sensor detects motion
 // write to the screen the current count and message
-// written by Leon Vuong 11/19/2021
 
 // Fail cases and display?
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
