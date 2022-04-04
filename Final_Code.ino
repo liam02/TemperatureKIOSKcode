@@ -4,8 +4,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 // Print battery voltage to 20x4 LCD via I2C
 // using Voltage Divider of 2x 10k resisters to keep under 5V PIN limit
-// written by Edward Baldwin 10/30/2021
-
 // Temperature
 
 // Count capacity
